@@ -9,8 +9,24 @@
 - 📫 How to reach me: mail: Aya.HOUSSAINI@um6p.ma or my personal mail: squallihoussainiaya@gmail.com
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayasqualli&theme=github_dark" alt="Aya's GitHub Stats"/>
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayasqualli&theme=github_dark" alt="Aya's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=ayasqualli&theme=merko" alt="Aya's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayasqualli&theme=github_dark" alt="Aya's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayasqualli&theme=github_dark&utcOffset=10" alt="Aya's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayasqualli&theme=github_dark" alt="Aya's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayasqualli&theme=github_dark" alt="Aya's GitHub Stats"/></td>
+    </tr>
+ </table>
 </div>
+
 <!---
 ayasqualli/ayasqualli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
