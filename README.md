@@ -4,7 +4,7 @@
     </h1>
 </div>
 - 👀 I’m interested in Computer Science<br>
-- 🌱 I’m currently an engineering student of COMPUTER SCIENCE (UM6P Morocco)<br>
+- 🌱 I’m currently an engineering student of COMPUTER SCIENCE (UM6P-College Of Computing/Morocco)<br>
 - 💞️ I’m looking to collaborate on programming projects and research papers<br>
 - 📫 How to reach me: mail: Aya.HOUSSAINI@um6p.ma or my personal mail: squallihoussainiaya@gmail.com<br>
 
